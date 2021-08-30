@@ -8,4 +8,12 @@ master_v2
 
 master_v3
 
+<<<<<<< HEAD
 fix bug over
+=======
+emoji
+
+emoji2
+
+I'm working ...
+>>>>>>> new-branch
